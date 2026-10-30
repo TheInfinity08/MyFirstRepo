@@ -1,0 +1,4 @@
+This is demo.txt file
+It is a dummy file for STAR Lab
+New Line added
+Line 4
